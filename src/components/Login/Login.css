@@ -1,0 +1,17 @@
+.login-form{
+    width: 400px;
+    background-color: #fff;
+    margin: 50px auto;
+    padding: 40px 20px;
+    border-radius: 10px;
+}
+.login-title{
+    margin-bottom: 24px;
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: bold;
+    text-align: center;
+}
+.login-form-button{
+    width: 100%;
+}
