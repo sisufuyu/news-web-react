@@ -42,10 +42,9 @@ class App extends Component {
             })
   }
   render() {
-    // console.log(this.state.loginState)
     return (
       <BrowserRouter>
-      <Layout style={{minWidth: "1300px", height: "100%"}}>
+      <Layout style={{minWidth: "1320px", height: "100%"}}>
         <Header className="header">
           <AppHeader loginState={this.state.loginState} handleLogToggle={this.handleLogToggle}/>
         </Header>
