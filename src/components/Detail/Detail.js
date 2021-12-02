@@ -7,8 +7,8 @@ class Detail extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            title: 'title',
-            content: 'content'
+            title: '',
+            content: ''
         }
     }
     componentDidMount() {
