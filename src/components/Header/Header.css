@@ -1,0 +1,21 @@
+.header-logo{
+    height: 45px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.header-menu{
+    border-bottom: none;
+    width: 950px;
+    float: left;
+}
+.login{
+    float: right;
+}
+.login-btn,.logout-btn{
+    width: 80px;
+}
+.profile{
+    float: right;
+    margin-right: 10px;
+}
