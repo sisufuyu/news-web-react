@@ -6,7 +6,7 @@ import axios  from 'axios';
 
 import AppHeader from './components/Header/Header';
 import Login from './components/Login/Login';
-import Profile from './components/Profile/profile';
+import Profile from './components/Profile/Profile';
 import AppList from './components/List/List';
 import Detail from './components/Deatil/Detail';
 
